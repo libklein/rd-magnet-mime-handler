@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Real Debrid Magnet Downloader
+Path=QUEUE_MAGNET_SCRIPT_DIR
+Exec=QUEUE_MAGNET_SCRIPT_DIR/queue_magnet.sh %U
+Type=Application
+Terminal=false
+MimeType=x-scheme-handler/magnet;
